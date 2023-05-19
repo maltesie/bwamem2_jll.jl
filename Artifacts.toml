@@ -1,0 +1,80 @@
+[[bwamem2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d37419a5c70ef0f765a07d406908009be01850f2"
+libc = "glibc"
+os = "linux"
+
+    [[bwamem2.download]]
+    sha256 = "a5831aa8bc723d408dc8eb352ac9a314171276fcd205d6971a0803f7d3d3c4a9"
+    url = "https://github.com/maltesie/bwamem2_jll.jl/releases/download/bwamem2-v2.2.1+0/bwamem2.v2.2.1.i686-linux-gnu-cxx03.tar.gz"
+[[bwamem2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cb0a59cf433d1b1074aaac3e590f11fb1884b563"
+libc = "glibc"
+os = "linux"
+
+    [[bwamem2.download]]
+    sha256 = "3eccd41539fd454c9239915371e5d7665f69cd1f16389fe266815b116be3099b"
+    url = "https://github.com/maltesie/bwamem2_jll.jl/releases/download/bwamem2-v2.2.1+0/bwamem2.v2.2.1.i686-linux-gnu-cxx11.tar.gz"
+[[bwamem2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5f488c55f4537484ef1a9326f5c47d7828312f90"
+libc = "musl"
+os = "linux"
+
+    [[bwamem2.download]]
+    sha256 = "d65b641c38981181fb99666f6bd12828a72bd4761bb011b6d1e0e327afc71b5f"
+    url = "https://github.com/maltesie/bwamem2_jll.jl/releases/download/bwamem2-v2.2.1+0/bwamem2.v2.2.1.i686-linux-musl-cxx03.tar.gz"
+[[bwamem2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c159264aff9b142c108198979aee2bb6a77ad29a"
+libc = "musl"
+os = "linux"
+
+    [[bwamem2.download]]
+    sha256 = "5df427cfe1c59001864700cd70c7c7e35b2323dfa19fd90f89fe7d17bd9a0960"
+    url = "https://github.com/maltesie/bwamem2_jll.jl/releases/download/bwamem2-v2.2.1+0/bwamem2.v2.2.1.i686-linux-musl-cxx11.tar.gz"
+[[bwamem2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3f59647b55c3f2e5d192431940c9ebbce499046c"
+libc = "glibc"
+os = "linux"
+
+    [[bwamem2.download]]
+    sha256 = "2ed1237d6a80b31087e0d582bf6528a91c4129d01f2a4a2476598b01fb8afeb0"
+    url = "https://github.com/maltesie/bwamem2_jll.jl/releases/download/bwamem2-v2.2.1+0/bwamem2.v2.2.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[bwamem2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "68c6cbb5ad3ab64cddec027940c38d2b4471f723"
+libc = "glibc"
+os = "linux"
+
+    [[bwamem2.download]]
+    sha256 = "978d050c5f975a934d9059b0430e2f2103992db851b8d89c4ff5c1e3555a0873"
+    url = "https://github.com/maltesie/bwamem2_jll.jl/releases/download/bwamem2-v2.2.1+0/bwamem2.v2.2.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[bwamem2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1baf0c2ae8f1700a85ca6ed018ecfd5ab9290582"
+libc = "musl"
+os = "linux"
+
+    [[bwamem2.download]]
+    sha256 = "04fa6beac51c2a9878602972b9dfa56c7a624cabe6a17d23c480ccd1866b2620"
+    url = "https://github.com/maltesie/bwamem2_jll.jl/releases/download/bwamem2-v2.2.1+0/bwamem2.v2.2.1.x86_64-linux-musl-cxx03.tar.gz"
+[[bwamem2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5e0a8c6dbf5f1a18d367b7ae2fc1fbdf0899d3ab"
+libc = "musl"
+os = "linux"
+
+    [[bwamem2.download]]
+    sha256 = "4cd1fe7a9bc7658adcb65c2645d4022ed12e401190553cf781338864f9ca50c6"
+    url = "https://github.com/maltesie/bwamem2_jll.jl/releases/download/bwamem2-v2.2.1+0/bwamem2.v2.2.1.x86_64-linux-musl-cxx11.tar.gz"
